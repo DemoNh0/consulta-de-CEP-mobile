@@ -1,0 +1,7 @@
+{
+  "name": "viacepAPI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
